@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(237, 222, 162);
+}
+h1{
+    color: rgba(48, 40, 40, 0.805); font-size: 50px;
+}
+ul{
+    color: rgba(214, 19, 19, 0.673); font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h2{
+    color:rgba(48, 40, 40, 0.805) ; font-size: 50px;
+}
+div{
+    color: brown; font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
